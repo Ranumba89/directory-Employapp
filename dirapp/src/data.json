@@ -1,0 +1,41 @@
+ [
+    {
+        "image": "/men/54.jpg",
+        "name": "Ralph",
+        "phone": "555-55-555",
+        "email": "email.1@gmail.com",
+        "DOB": "03/19/1993"
+    },
+    {
+        "image": "/men/3.jpg",
+        "name": "George",
+        "phone": "555-54-665",
+        "email": "email.2@gmail.com",
+        "DOB": "05/1/1990"
+    }, {
+        "image": "/women/4.jpg",
+        "name": "Quin",
+        "phone": "702-55-2020",
+        "email": "email.3@gmail.com",
+        "DOB": "07/19/1997"
+    },   {
+        "image": "/men/25.jpg",
+        "name": "Jake",
+        "phone": "111-44-9090",
+        "email": "email.4@gmail.com",
+        "DOB": "03/19/1993"
+    },
+    {
+        "image": "/men/2.jpg",
+        "name": "Hova",
+        "phone": "504-59-000",
+        "email": "email.5@gmail.com",
+        "DOB": "05/17/1995"
+    }, {
+        "image": "/women/5.jpg",
+        "name": "Sidney",
+        "phone": "303-75-444",
+        "email": "email.6@gmail.com",
+        "DOB": "04/1/1989"
+    }
+]
