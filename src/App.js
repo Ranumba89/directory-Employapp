@@ -1,6 +1,6 @@
 import Body from "./component/Body";
 import Header from "./component/Header";
-import "./app.css";
+import "./App.css";
 
 const App = () => {
     return <div className="app">
